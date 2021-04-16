@@ -1,3 +1,4 @@
+//small student database without file handling
 #include <iostream>
 using namespace std;
 //creating  data type 
